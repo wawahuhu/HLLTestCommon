@@ -30,7 +30,7 @@
 		9D06555D914A5EA019AB8DC5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9FDC8AFC8E827168D32DE130 /* Pods-TestCommon_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestCommon_Tests.debug.xcconfig"; path = "Target Support Files/Pods-TestCommon_Tests/Pods-TestCommon_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		AB4370F62CA62FDB89770DFA /* Pods_TestCommon_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestCommon_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F6CDEF6E611D34E7F61FA5C5 /* TestCommon.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TestCommon.podspec; path = ../TestCommon.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F6CDEF6E611D34E7F61FA5C5 /* HLLTestCommon.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HLLTestCommon.podspec; path = ../HLLTestCommon.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +101,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				F6CDEF6E611D34E7F61FA5C5 /* TestCommon.podspec */,
+				F6CDEF6E611D34E7F61FA5C5 /* HLLTestCommon.podspec */,
 				9D06555D914A5EA019AB8DC5 /* README.md */,
 				807D01A56077C918D98C2A01 /* LICENSE */,
 			);
