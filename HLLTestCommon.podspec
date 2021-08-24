@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'TestCommon'
+  s.name             = 'HLLTestCommon'
   s.version          = '0.1.0'
-  s.summary          = 'TestCommon 测试公有库.'
+  s.summary          = 'HLLTestCommon 测试公有库.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/wawahuhu/TestCommon'
+  s.homepage         = 'https://github.com/wawahuhu/HLLTestCommon'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hulilei' => 'hulilei@jiagouyun.com' }
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'TestCommon/Classes/**/*'
+  s.source_files = 'HLLTestCommon/Classes/**/*'
   
   # s.resource_bundles = {
   #   'TestCommon' => ['TestCommon/Assets/*.png']
